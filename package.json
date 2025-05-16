@@ -1,0 +1,16 @@
+{
+  "name": "article-writer-3000",
+  "version": "1.0.0",
+  "description": "A minimalist writing machine from the year 3000.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
